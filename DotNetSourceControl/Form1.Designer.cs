@@ -33,9 +33,9 @@
             // 
             // btnGreeting
             // 
-            btnGreeting.Location = new Point(282, 178);
+            btnGreeting.Location = new Point(232, 178);
             btnGreeting.Name = "btnGreeting";
-            btnGreeting.Size = new Size(188, 58);
+            btnGreeting.Size = new Size(238, 103);
             btnGreeting.TabIndex = 0;
             btnGreeting.Text = "Clic This Buttun";
             btnGreeting.UseVisualStyleBackColor = true;
