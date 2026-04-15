@@ -9,7 +9,7 @@ namespace DotNetSourceControl
 
             InitializeComponent();
         }
-
+        // Change the name of the label here 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
